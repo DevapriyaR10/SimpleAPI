@@ -4,8 +4,6 @@ A **Role-Based Access Control (RBAC) Task Manager** built with **Node.js, Expres
 Supports **JWT authentication**, **admin/user roles**, and a **4-page React frontend** (Landing, Login, Register, Dashboard).  
 Includes **Swagger API documentation** and scalable project structure.
 
-
-You said:
 backend/
 │── src/
 │   ├── config/
